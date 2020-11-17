@@ -32,5 +32,13 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yikeda6616/gulp-static-starter-v4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yikeda6616/gulp-static-starter-v4/issues"
+  },
+  "homepage": "https://github.com/yikeda6616/gulp-static-starter-v4#readme"
 }
